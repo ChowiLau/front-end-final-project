@@ -59,6 +59,10 @@
   <el-container>
     <el-header>Header</el-header>
     <el-main>Main</el-main>
+    <div class="mui-card-content-inner">
+						181013112刘兆炜
+						181013099吴欣琳
+					</div>
   </el-container>
 </el-container>
 </template>

@@ -45,11 +45,15 @@
           size="small">
           移除
         </el-button>
+        
       </template>
     </el-table-column>
   </el-table>
 </template>
-
+    <div class="mui-card-content-inner">
+						181013112刘兆炜
+						181013099吴欣琳
+					</div>
 <script>
   export default {
     methods: {

@@ -88,7 +88,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: '欢迎光临VUE学习网站Welcome to Your Vue.js App'
+      msg: '欢迎光临刘兆炜、吴欣琳的学习网站'
     }
   }
 }
